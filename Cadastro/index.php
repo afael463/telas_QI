@@ -1,10 +1,5 @@
 <?php
-// Aqui futuramente você pode processar os dados do formulário com PHP
-// if ($_SERVER["REQUEST_METHOD"] === "POST") {
-//     $usuario = htmlspecialchars($_POST["usuario"]);
-//     $email = htmlspecialchars($_POST["email"]);
-//     $lembretes = isset($_POST["lembretes"]) ? "Sim" : "Não";
-// }
+
 ?>
 
 <!DOCTYPE html>
